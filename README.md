@@ -4,5 +4,5 @@ repo for interactive plot
 - [drifters_comparison_nrt_clean_iqr4.html](drifters_comparison_nrt_clean_iqr4.html)
 - [drifters_comparison_nrt_clean_iqr4_full.html](drifters_comparison_nrt_clean_iqr4_full.html)
 - [drifters_comparison_nrt_clean_iqr4_dl.html](drifters_comparison_nrt_clean_iqr4_dl.html)
-- [drifters_scores_interacrive_shared_slides.html](drifters_scores_interacrive_shared_slides.html)
+- [drifters_scores_interactive_shared_slides.html](drifters_scores_interactive_shared_slides.html)
 
